@@ -15,7 +15,7 @@ class AnhLeNgQuoc:
         self.name = "Anh Le Ng. Quoc"
         self.university = "FPT University"
         self.major = "Artificial Intelligence"
-        self.company = "FPT Software AI Quy Nhơn"
+        self.company = "None"
         self.role = ["Data Analysis", "Agent Engineering"]
         self.hobbies = ["Gaming", "Football", "Agent Development"]
     
@@ -35,7 +35,7 @@ print(f" Intern at {me.company}")
 print(f" Hobbies: {', '.join(me.hobbies)}")
 ```
 
-I am currently an undergraduate student specializing in **Artificial Intelligence** at **FPT University**. Alongside my studies, I am also interning at **FPT Software AI Quy Nhơn**, where I work in **Data Analysis** and **Agent Engineering**. My work and research involve **LangChain**, **LangGraph**, and **Azure Cloud** tools.
+I am at my final year at FPT University.
 
 My primary development environments include **VS Code**, **Jupyter Notebook**, and **PyCharm**. I have hands-on experience with **PyTorch**, **TensorFlow**, and **CUDA**. My academic and research interests focus on **computer vision** and **predictive modeling** using advanced AI techniques.
 
